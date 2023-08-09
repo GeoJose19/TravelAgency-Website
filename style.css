@@ -326,9 +326,7 @@ footer .fa{
 
 @media only screen and (max-width:750px){
     .logo img{width:150px}
-    .toggle{display: block;
-           z-index:999;
-           }
+    .toggle{display: block;}
     .nav-links{
         position: absolute;
         top: 0;
@@ -342,7 +340,7 @@ footer .fa{
     }
     .nav-links.active{
         margin-top: 0;
-        z-index:99;
+        
     }
     .nav-links li{
         margin: 30px auto;
