@@ -342,6 +342,7 @@ footer .fa{
     }
     .nav-links.active{
         margin-top: 0;
+        z-index:99;
     }
     .nav-links li{
         margin: 30px auto;
